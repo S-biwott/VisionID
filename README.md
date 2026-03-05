@@ -214,6 +214,15 @@ To change this, update:
 
 @CrossOrigin(origins = "http://localhost:4200")
 
+Use Cases
+
+VisionID can be integrated into:
+Visitor Management Systems
+Airport check-in verification
+Building security access control
+Digital identity verification systems
+Hotel guest registration
+
 Future Improvements
 Deep learning based ID detection
 YOLO document detection
